@@ -1,6 +1,6 @@
-package Semana1;
+package src.Semana1;
 import java.util.Scanner;
-public class Ex01Farenheit {
+public class ExerciciosPropostosSemana1 {
  public static void main (String []args) {
 	 Scanner leia =new Scanner (System.in);
 	 System.out.println("Qual exercício deseja verificar?\n-------\n[1]-CONVERSÃO DE TEMPERATURA\n[2]-EQUAÇÕES\n[3]-PESO IDEAL");
